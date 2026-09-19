@@ -49,15 +49,6 @@ This is a real-time chat application built using **Spring Boot** for the back-en
 
 ## Setup Instructions
 
-### Prerequisites
-
-Ensure the following are installed on your system:
-
-- **Node.js**: [Download Node.js](https://nodejs.org/)
-- **Java JDK**: [Download JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
-- **Maven**: [Download Maven](https://maven.apache.org/download.cgi)
-- **MySQL**: [Download MySQL](https://dev.mysql.com/downloads/)
-
 ### Front-end Setup
 
 1. **Clone the repository**:
